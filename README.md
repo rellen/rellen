@@ -1,16 +1,21 @@
-### Hi there 👋
+### G'day 👋
 
-<!--
-**rellen/rellen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Consultant [@team-alembic](https://github.com/team-alembic)
 
-Here are some ideas to get you started:
+My software development interests include:
+- Elixir and BEAM languages
+  - PETAL stack
+  - Systems Programming with BEAM languages
+  - Numerical Elixir
+- Functional Programming
+  - principles
+  - Haskell
+  - FP in BEAM languages and TypeScript
+- CQRS/ES architectures
+- Real-time and embedded systems
+- Industrial Control Systems
+- Observability
+- Timeseries databases and visualisation
+- Nix/NixOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[@robertellen](https://twitter.com/robertellen)
