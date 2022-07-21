@@ -14,6 +14,7 @@ My software development interests include:
 - CQRS/ES architectures
 - Real-time and embedded systems
 - Industrial Control Systems
+- TDD
 - Observability
 - Timeseries databases and visualisation
 - Nix/NixOS
