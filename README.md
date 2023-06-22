@@ -6,6 +6,7 @@ I currently work as a Senior Consultant [@team-alembic](https://github.com/team-
 My software development interests include:
 - Elixir and BEAM languages
   - PETAL stack 💮
+  - Ash Framework
   - Systems Programming with BEAM languages
   - Numerical Elixir 🧠
   - Gleam 🌟
