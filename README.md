@@ -1,6 +1,6 @@
 ### G'day 👋 🦘
 
-I'm a software developer and Industrial Control Systems engineer 
+I'm a software developer and Industrial Control Systems engineer.
 I currently work as a Senior Consultant [@team-alembic](https://github.com/team-alembic)
 
 My software development interests include:
