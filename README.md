@@ -21,5 +21,3 @@ My software development interests include:
 - Observability 🔭
 - Timeseries databases and visualisation 📈
 - Nix/NixOS 💻 🤯
-
-[@robertellen](https://twitter.com/robertellen)
